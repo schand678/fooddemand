@@ -66,6 +66,5 @@ documents (CSV, PDF).
 - ✅ **Scheduling & AI-powered demand prediction**
 """)
 
-# ----------- FINAL FOOTER ----------- #
-st.markdown("🔗 **Built using Streamlit & Google Vertex AI (Demo Mode)**")
+
 
